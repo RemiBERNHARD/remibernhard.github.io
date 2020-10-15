@@ -54,7 +54,8 @@
 }
 .list_talks{
   display: inline-block;   	
-  text-align: left; 
+  text-align: left;
+  margin-left : 30px;
   font-size : 20px;
   border-style: solid;
 }
