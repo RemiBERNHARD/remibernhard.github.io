@@ -5,7 +5,7 @@
 .col-none{width: 19%;
           display: inline-block;}
 .col-menu{width: 19%}
-.col-menu-logo{width: 15%;}
+.col-menu-logo{width: 20%;}
 .col-main{width: 60%;}
 
 
@@ -29,6 +29,7 @@ html{
 .link_home{
   display: inline-block;
   padding-top: 2vh;
+  padding-left: 8vh;
 }
 
 .links_menu{
