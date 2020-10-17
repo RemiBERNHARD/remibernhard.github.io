@@ -17,6 +17,10 @@
   .col-none{display: none;}
 }
 
+html{
+    overflow-y: scroll;
+}
+
 .menu{
   width:100%;
   text-align:center;
