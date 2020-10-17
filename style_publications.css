@@ -28,6 +28,7 @@ html{
 
 .link_home{
   display: inline-block;
+  padding-top: 2vh;
 }
 
 .links_menu{
