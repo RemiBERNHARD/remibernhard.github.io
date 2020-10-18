@@ -9,13 +9,6 @@
 .col-main{width: 60%;}
 
 
-@media only screen and (max-width: 800px) {
-  .col-menu{width: 100%;
-         display: block;}
-  .col-menu-logo{width: 10%;}
-  .col-main{width: 100%;}
-  .col-none{display: none;}
-}
 
 html{
     overflow-y: scroll;
@@ -31,15 +24,6 @@ html{
   padding-top: 2vh;
   padding-left: 15vh;
 }
-
-
-@media only screen and (max-width: 800px) {
-  .link_home{
-    display: inline-block;
-    padding-top: 2vh;
-  }
-}
-
 
 .links_menu{
   vertical-align: top;
@@ -76,3 +60,17 @@ html{
 .bullets_publications{
   margin-left : 30px;
 }  
+
+
+@media only screen and (max-width: 800px) {
+  .col-menu{width: 100%;
+         display: block;}
+  .col-menu-logo{width: 10%;}
+  .col-main{width: 100%;}
+  .col-none{display: none;}
+  .link_home{
+  display: inline-block;
+  padding-top: 2vh;
+  }
+}
+
