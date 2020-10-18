@@ -36,6 +36,15 @@ html{
   padding-left: 15vh;
 }
 
+
+@media only screen and (max-width: 800px) {
+  .link_home{
+    display: inline-block;
+    padding-top: 2vh;
+  }
+}
+
+
 .links_menu{
   vertical-align: top;
   display: inline-block;
