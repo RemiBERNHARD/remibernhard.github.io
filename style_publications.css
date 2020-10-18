@@ -67,5 +67,10 @@ html{
   .col-menu-logo{width: 10%;}
   .col-main{width: 100%;}
   .col-none{display: none;}
+  .link_home{
+    display: inline-block;
+    padding-top: 2vh;
+    padding-left: 0 !important;
+}
 }
 
