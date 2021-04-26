@@ -12,7 +12,7 @@
 .col-presentation-logo{width: 12%;}
 .col-none{width: 19%;
           display: inline-block;}
-.col-links-presentation{width:90%;}	
+.col-links-presentation{width:100%;}	
 
 @media only screen and (max-width: 800px) {
   .col-menu{width: 100%;
