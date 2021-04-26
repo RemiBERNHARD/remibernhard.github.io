@@ -8,7 +8,7 @@
 .col-photo-name{width: 40%;
 	margin-left: 2%;}
 .col-mail-logo{width: 10%;}
-.col-presentation{width: 50%;}
+.col-presentation{width: 56%;}
 .col-presentation-logo{width: 12%;}
 .col-none{width: 19%;
           display: inline-block;}
@@ -88,7 +88,7 @@
  text-align: left;
 }
 .text_presentation{
- width: 90%;
+ width: 100%;
  font-size : 20px;
  font-weight: 500;
  text-align: justify;
