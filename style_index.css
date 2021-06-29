@@ -62,7 +62,6 @@
 .photo_and_name{
  display: inline-block;
  float: left;
- text-align: center;
  margin-top: 6%;
 }
 .photo{
@@ -70,6 +69,7 @@
   width: 13em;
 }
 .text_photo{
+ text-align: center;
  font-size: 20px;
  font-weight: bold;  	
 }	
