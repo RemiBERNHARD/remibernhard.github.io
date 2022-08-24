@@ -50,11 +50,15 @@ html{
   border-style: solid;
   margin-top: 5%;
 }
+.name_publications{
+  margin-top: 8px;
+}
 .list_publications{
   display: inline-block;   	
   text-align: left; 
   font-size : 20px;
   border-style: solid;
+  margin-top
 }
 .bullets_publications{
   margin-left : 30px;
