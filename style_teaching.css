@@ -50,6 +50,9 @@ html{
   border-style: solid;
   margin-top: 5%;
 }
+.name_teaching{
+  margin-top: 8px;
+}
 .list_teaching{
   display: inline-block;   	
   text-align: left; 
