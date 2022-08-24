@@ -50,6 +50,9 @@ html{
   border-style: solid;
   margin-top: 5%;
 }
+.name_talks{
+  margin-top: 8px;
+}
 .list_talks{
   display: inline-block;   	
   text-align: left;
